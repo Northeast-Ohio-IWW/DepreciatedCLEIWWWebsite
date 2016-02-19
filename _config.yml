@@ -3,6 +3,8 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
+
+gems: [jekyll-paginate, jekyll-gist]
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
 url: "https://northeast-ohio-iww.github.io/CleWW"
 baseurl: "/CleWW"
@@ -28,7 +30,7 @@ avatar: "/img/globe.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About Us: "aboutus.html"
+  About Us: "https://northeast-ohio-iww.github.io/CleWW/aboutus.html"
   Events: "https://www.facebook.com/clevelandiww/events?ref=page_internal"
   Contact Us: "http://www.iww.org/branches/US/OH"
   Join: "http://www.iww.org/membership"
@@ -71,7 +73,7 @@ footer-links-active:
 
 # Output options (more information on Jekyll's site)
 timezone: "America/Vancouver"
-markdown: markdown
+markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
@@ -147,3 +149,4 @@ prose:
   
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+

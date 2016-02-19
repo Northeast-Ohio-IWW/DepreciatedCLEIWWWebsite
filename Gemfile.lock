@@ -131,6 +131,7 @@ PLATFORMS
 DEPENDENCIES
   execjs
   github-pages
+  jekyll-gist
   jekyll-paginate
   kramdown
   therubyracer
