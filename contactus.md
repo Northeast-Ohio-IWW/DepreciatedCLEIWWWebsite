@@ -3,7 +3,7 @@ layout: page
 title: Contact Us
 subtitle: Cleveland - Akron - Canton
 ---
-<img style="float: right;" src="/CleWW/img/sticker.jpg">
+<img style="float: right; margin-top: -25px;" src="/CleWW/img/sticker.jpg">
 
 
 **Cleveland (Northeast Ohio) IWW**
