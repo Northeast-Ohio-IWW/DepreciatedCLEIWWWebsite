@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Us
-subtitle: Educate, Agitate, Organize!
+subtitle: Cleveland - Akron - Canton
 ---
 <img style="float: right;" src="/CleWW/img/sticker.jpg">
 
