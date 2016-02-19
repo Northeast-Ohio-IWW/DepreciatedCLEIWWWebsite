@@ -28,7 +28,7 @@ avatar: "/img/globe.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About Us: "/CleWW/aboutme/index.html"
+  About Us: "/CleWW/aboutme.html"
   Events: ""
   Contact Us: ""
   Join: ""
