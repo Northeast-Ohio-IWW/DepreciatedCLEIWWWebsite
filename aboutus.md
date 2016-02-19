@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-subtitle: Cleveland - Akron - Canton
+subtitle: Educate, Agitate, Organize!
 ---
 <img style="float: right;" src="/CleWW/img/three_fist.jpg">
 **We** are the Northeast Ohio General Membership Branch of the Industrial Workers of the World (IWW). We organize workers in Cleveland, Akron, and many surrounding cities. 
