@@ -14,7 +14,7 @@ baseurl: "/CleWW"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: " Industrial Workers of the World"
+title: "Industrial Workers of the World"
 
 # Short description of your site
 description: The home of the Northeast Ohio IWW.
@@ -71,7 +71,7 @@ footer-links-active:
 
 # Output options (more information on Jekyll's site)
 timezone: "America/Vancouver"
-markdown: kramdown
+markdown: markdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5

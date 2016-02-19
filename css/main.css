@@ -122,13 +122,14 @@ img {
   color: #ffffff;
 }
 
-
+/*
 .navbar-custom .brand-image:hover,
 .navbar-custom .brand-image:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
   color: #0085a1;
 }
+*/
 
 @media only screen and (min-width: 768px) {
   .navbar-custom {
