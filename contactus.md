@@ -10,7 +10,7 @@ subtitle: The One Big Union
 
 * Mail - PO Box 5120, Akron, Ohio 44334
 * Phone - (440) 941-0999
-* E-mail - cleveland@iww.org
+* E-Mail - cleveland@iww.org
 
 
 
