@@ -122,13 +122,14 @@ img {
   color: #ffffff;
 }
 
-
+/*
 .navbar-custom .brand-image:hover,
 .navbar-custom .brand-image:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
   color: #0085a1;
 }
+*/
 
 @media only screen and (min-width: 768px) {
   .navbar-custom {
@@ -150,7 +151,7 @@ img {
   -moz-transition: opacity 0.5s ease-in-out;
   transition: opacity 0.5s ease-in-out;
   left: 50%;
-  width: 100px;
+  width: 0px;
   margin-top: -25px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
@@ -313,7 +314,7 @@ header.header-page .page-heading h1 {
 
 header.header-post .post-heading .post-subheading,
 header.header-page .page-heading .page-subheading {
-  font-size: 16px;
+  font-size: 20px;
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -333,7 +334,8 @@ header.header-post .post-heading .post-subheading {
 
 @media only screen and (min-width: 768px) {
   header.header-page .page-heading h1 {
-    font-size: 80px;
+    margin-top: 15px;
+    font-size: 37px;
   }
 }
 
