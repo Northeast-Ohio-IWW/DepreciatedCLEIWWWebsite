@@ -14,4 +14,4 @@ Sometimes this means refusing to work with dangerous equipment and chemicals. So
 
 Because the IWW is a democratic, member-run union, members decide what issues to address, and which tactics to use and we directly vote on office holders, from stewards to national offices.
 
-Heard enough? [Join the IWW](cleiww.org/contactus/index.html) today!
+Heard enough? [Join the IWW](/contactus/index.html) today!
