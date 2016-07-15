@@ -3,8 +3,8 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
-url: "https://northeast-ohio-iww.github.io/CleWW"
-baseurl: "/CleWW"
+url: "https://northeast-ohio-iww.github.io"
+baseurl: ""
 
 # GH Pages upgraded to Jekyll 3
 gems: [jekyll-paginate]
