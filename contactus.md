@@ -3,7 +3,7 @@ layout: page
 title: Contact Us
 subtitle: The One Big Union
 ---
-<img style="float: right; margin-top: -25px;" src="/CleWW/img/sticker.jpg">
+<img style="float: right; margin-top: -25px;" src="/img/sticker.jpg">
 
 
 **Cleveland (Northeast Ohio) IWW**

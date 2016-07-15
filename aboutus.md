@@ -3,7 +3,7 @@ layout: page
 title: About Us
 subtitle: Educate, Agitate, Organize!
 ---
-<img style="float: right;" src="/CleWW/img/three_fist.jpg">
+<img style="float: right;" src="/img/three_fist.jpg">
 **We** are the Northeast Ohio General Membership Branch of the Industrial Workers of the World (IWW). We organize workers in and around Cleveland, Akron, Canton, Ashtabula, and Youngstown.
 
 We are the Industrial Workers of the World because we organize industrially. This means we organize all workers producing the same goods or providing the same services into one union, rather than dividing workers by skill or trade, so we can pool our strength to win our demands together. Since the IWW was founded in 1905, we have made significant contributions to the labor struggles around the world and have a proud tradition of organizing across gender, ethnic and racial lines long before such organizing was popular.
