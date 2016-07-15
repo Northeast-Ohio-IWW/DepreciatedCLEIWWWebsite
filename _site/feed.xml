@@ -3,8 +3,8 @@
   <channel>
     <title>Industrial Workers of the World </title>
     <description>The home of the Northeast Ohio IWW.</description>
-    <link>cleiww.org</link>
-    <atom:link href="cleiww.org/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://cleiww.org</link>
+    <atom:link href="https://cleiww.org/feed.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
