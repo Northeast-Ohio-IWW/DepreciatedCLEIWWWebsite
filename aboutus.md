@@ -13,3 +13,5 @@ We invite you to become a member whether or not the IWW happens to have represen
 Sometimes this means refusing to work with dangerous equipment and chemicals. Sometimes it means striking or signing a contract. Other times it mean agitating around particular issues or grievances in a workplace or industry.
 
 Because the IWW is a democratic, member-run union, members decide what issues to address, and which tactics to use and we directly vote on office holders, from stewards to national offices.
+
+Heard enough? [Join the IWW](cleiww.org/contactus/index.html) today!
