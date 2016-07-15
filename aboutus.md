@@ -10,7 +10,7 @@ We are the Industrial Workers of the World because we organize industrially. Thi
 
 We invite you to become a member whether or not the IWW happens to have representation rights in your workplace. We organize the worker, not the job, and recognize that unions are not about government certification or employer recognition but about workers coming together to address common concerns.
 
-Sometimes this means refusing to work with dangerous equipment and chemicals. Sometimes it means striking or signing a contract. Other times it mean agitating around particular issues or grievances in a workplace or industry.
+Sometimes this means refusing to work with dangerous equipment and chemicals. Sometimes it means striking or signing a contract. Other times it means agitating around particular issues or grievances in a workplace or industry.
 
 Because the IWW is a democratic, member-run union, members decide what issues to address, and which tactics to use and we directly vote on office holders, from stewards to national offices.
 
