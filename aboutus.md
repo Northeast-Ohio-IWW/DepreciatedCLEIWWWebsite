@@ -8,7 +8,7 @@ subtitle: Educate, Agitate, Organize!
 
 We are the Industrial Workers of the World because we organize industrially. This means we organize all workers producing the same goods or providing the same services into one union, rather than dividing workers by skill or trade, so we can pool our strength to win our demands together. Since the IWW was founded in 1905, we have made significant contributions to the labor struggles around the world and have a proud tradition of organizing across gender, ethnic and racial lines long before such organizing was popular.
 
-<img style="float: left;" src="/img/wob.jpg">
+<img style="float: left;" src="/img/wob.jpg" height="20%" width="20%">
 We invite you to become a member whether or not the IWW happens to have representation rights in your workplace. We organize the worker, not the job, and recognize that unions are not about government certification or employer recognition but about workers coming together to address common concerns.
 
 Sometimes this means refusing to work with dangerous equipment and chemicals. Sometimes it means striking or signing a contract. Other times it mean agitating around particular issues or grievances in a workplace or industry.
