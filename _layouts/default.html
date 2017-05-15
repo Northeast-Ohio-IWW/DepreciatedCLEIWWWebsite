@@ -29,6 +29,9 @@ common-js:
     {% include footer.html %}
 
     {% include footer-scripts.html %}
-
+  
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
   </body>
 </html>
