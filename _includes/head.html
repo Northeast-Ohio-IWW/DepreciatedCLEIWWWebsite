@@ -99,10 +99,10 @@
   <meta property="og:image" content="" />
   {% endif %}
 
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
 
-  {% if site.google_analytics and jekyll.environment == 'production' %}
-  {% include google_analytics.html %}
-  {% endif %}
 
   
 </head>
